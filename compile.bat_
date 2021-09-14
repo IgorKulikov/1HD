@@ -1,0 +1,2 @@
+ifort /Fe1hd.exe ./machine.f90 ./mesh.f90 ./system.f90 ./recovery.f90 ./shock_tube.f90 ./load.f90 ./boundary.f90 ./save.f90 ./tau.f90 ./linear.f90 ./riemann.f90 ./godunov.f90 ./main.f90
+del *.obj *.mod
